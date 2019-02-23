@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express":"*",
     "express-hbs": "^2.0.2",
-    "hbs": "^4.0.2"
+    "hbs": "^4.0.2",
+    "body-parser":"*",
+    "bcrypt": "^0.8.5"
+
   }
 }
