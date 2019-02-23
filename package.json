@@ -14,7 +14,7 @@
     "express-hbs": "^2.0.2",
     "hbs": "^4.0.2",
     "body-parser":"^1.18.3",
-    "bcrypt": "^0.8.5"
+    "bcrypt": "^3.0.4"
 
   }
 }
